@@ -1,5 +1,6 @@
-### Detailed explanation of Python-basics, OOP, Numpy, Matplotlib
+### Detailed explanation of Python-basics, OOP, Numpy, Matplotlib, Pandas
 
+```
 Fundamentals
 basics1:
     * Operators
@@ -22,6 +23,12 @@ Python OOPs
 
 Numpy
 Numpy - random
+
+Pandas
+
+Matplotlib
+
+```
 
 reference links:
 w3 -> https://www.w3schools.com/python/default.asp
