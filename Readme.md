@@ -1,1 +1,27 @@
 ### Detailed explanation of Python-basics, OOP, Numpy, Matplotlib
+
+Fundamentals
+basics1:
+    * Operators
+    * Loops
+    * Arguments parameters
+    * Ternitary OpeSration
+    * Type Hints
+
+basics2:
+    lists
+    tuples
+    dictionaries
+    sets
+    .
+    .
+    .
+    After iterables 
+
+Python OOPs
+
+Numpy
+Numpy - random
+
+reference links:
+w3 -> https://www.w3schools.com/python/default.asp
